@@ -1,0 +1,68 @@
+
+       55 / 55 (100.0%)  [707 items/min]
+creating topics and posts
+       52 / 39272 (  0.1%)  [662 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (21, null, 0_236b2_b8019169_L.jpg, 161291, 394, 366, , 2020-05-03 19:11:50.21942, 2020-05-03 19:11:50.21942, 1fbc2975d21ba5e60c86ee4ca3c7b1fa895a972e, null, null, jpeg, 394, 366, null, f, null, null).
+      122 / 39272 (  0.3%)  [510 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (22, null, 3517_123_3_bottom_3_5e642c92294656838332db9272978967.jpg, 3658, 119, 110, , 2020-05-03 19:11:59.785264, 2020-05-03 19:11:59.785264, dd85150a3dac3a9983fae9f649899392fca7348f, null, null, jpeg, 119, 110, null, f, null, null).
+      128 / 39272 (  0.3%)  [507 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (23, null, gee_ru_158993______.jpg, 112283, 400, 293, , 2020-05-03 19:12:00.612454, 2020-05-03 19:12:00.612454, 4b32a27e649e306e596172de021f2d2bc071fdc3, null, null, jpeg, 400, 293, null, f, null, null).
+      144 / 39272 (  0.4%)  [514 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (24, null, ____.jpg, 92262, 400, 320, , 2020-05-03 19:12:02.24888, 2020-05-03 19:12:02.24888, 15de90c4190ee135362067e28ffd42501102e54d, null, null, jpeg, 400, 320, null, f, null, null).
+      194 / 39272 (  0.5%)  [553 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (25, null, aa491c3a.jpg, 29079, 468, 351, , 2020-05-03 19:12:06.480521, 2020-05-03 19:12:06.480521, 81824cc891245994195acf342ad6aa6f84eaceea, null, null, jpeg, 468, 351, null, f, null, null).
+      222 / 39272 (  0.6%)  [563 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (26, null, zlatoverst.jpg, 58497, 300, 324, , 2020-05-03 19:12:09.113725, 2020-05-03 19:12:09.113725, 6c308738a1d208a32b4de63ee213e4b093b50c33, null, null, jpeg, 300, 324, null, f, null, null).
+      395 / 39272 (  1.0%)  [599 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (27, null, cvcv.jpg, 26951, 448, 332, , 2020-05-03 19:12:24.968223, 2020-05-03 19:12:24.968223, 42933c50ab9c7b328ee516d00dbe312c1ebf6cfb, null, null, jpeg, 448, 332, null, f, null, null).
+Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (28, null, cvcv-c17339bf846fc915ca67d6e68e42a320.jpg, 26951, 448, 332, , 2020-05-03 19:12:25.015884, 2020-05-03 19:12:25.015884, 42933c50ab9c7b328ee516d00dbe312c1ebf6cfb, null, null, jpeg, 448, 332, null, f, null, null).
+      682 / 39272 (  1.7%)  [607 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (29, null, g_skuka.jpg, 46114, 470, 342, , 2020-05-03 19:12:52.861786, 2020-05-03 19:12:52.861786, dd00e2b7e16b27c66d7896366392a49e41635c0d, null, null, jpeg, 470, 342, null, f, null, null).
+      683 / 39272 (  1.7%)  [606 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (30, null, hjghm.jpg, 18987, 257, 400, , 2020-05-03 19:12:52.9957, 2020-05-03 19:12:52.9957, 95a665e33b8f38ae5e106678832e119af6c0d43f, null, null, jpeg, 257, 400, null, f, null, null).
+      684 / 39272 (  1.7%)  [606 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (31, null, Image24.jpg, 35967, 492, 327, , 2020-05-03 19:12:53.116166, 2020-05-03 19:12:53.116166, 3b3dcab826bac3c87d75beb480f367ea5b35d0c6, null, null, jpeg, 492, 327, null, f, null, null).
+      685 / 39272 (  1.7%)  [606 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (32, null, posm.jpg, 19502, 490, 323, , 2020-05-03 19:12:53.231409, 2020-05-03 19:12:53.231409, aca06f825409ccae797da8d1eae029a0edb1ebf9, null, null, jpeg, 490, 323, null, f, null, null).
+      686 / 39272 (  1.7%)  [606 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (33, null, post_11_1100034754.jpg, 35351, 400, 284, , 2020-05-03 19:12:53.437509, 2020-05-03 19:12:53.437509, 25973b502e1f4d4e2b5c13ac0cac92cf6d2e08bc, null, null, jpeg, 400, 284, null, f, null, null).
+      687 / 39272 (  1.7%)  [605 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (34, null, post_3_1100250544.jpg, 31184, 400, 268, , 2020-05-03 19:12:53.565599, 2020-05-03 19:12:53.565599, a7740df97d9113392572161746a6e28ed67338e9, null, null, jpeg, 400, 268, null, f, null, null).
+      688 / 39272 (  1.8%)  [605 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (35, null, post_13_1100034820.jpg, 17775, 400, 267, , 2020-05-03 19:12:53.691676, 2020-05-03 19:12:53.691676, 2d8a792e5c19945d78545552c0668fdc81b09e71, null, null, jpeg, 400, 267, null, f, null, null).
+      689 / 39272 (  1.8%)  [604 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (36, null, week3.jpg, 16029, 350, 263, , 2020-05-03 19:12:53.816872, 2020-05-03 19:12:53.816872, 2e4fc789b013339da6ba70a184939b5a7046dffe, null, null, jpeg, 350, 263, null, f, null, null).
+      690 / 39272 (  1.8%)  [604 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (37, null, VEGET2.jpg, 23839, 320, 319, , 2020-05-03 19:12:53.948956, 2020-05-03 19:12:53.948956, c6058f16fcdf1e19a64bf31bdee0d83757719039, null, null, jpeg, 320, 319, null, f, null, null).
+      691 / 39272 (  1.8%)  [604 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (38, null, el_dorado.jpg, 48218, 470, 352, , 2020-05-03 19:12:54.095177, 2020-05-03 19:12:54.095177, cc17e36685cf9d7ff50af52c6cd167c9c45ff9e9, null, null, jpeg, 470, 352, null, f, null, null).
+      692 / 39272 (  1.8%)  [604 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (39, null, papka.jpg, 26044, 400, 373, , 2020-05-03 19:12:54.224054, 2020-05-03 19:12:54.224054, bc0f8213d813830f06ba329d4e8494068f1c02fe, null, null, jpeg, 400, 373, null, f, null, null).
+Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (40, null, tattoocool.jpg, 20501, 300, 399, , 2020-05-03 19:12:54.268051, 2020-05-03 19:12:54.268051, 6e24ce81fae3185e19e3b9bd1b352a511a67a0cb, null, null, jpeg, 300, 399, null, f, null, null).
+      693 / 39272 (  1.8%)  [603 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (41, null, c4_rugie_pravila_m_r_.jpg, 14022, 420, 420, , 2020-05-03 19:12:54.435446, 2020-05-03 19:12:54.435446, 1b9504016bba7cc117f68be8d09ac2800b1d59d1, null, null, jpeg, 420, 420, null, f, null, null).
+      694 / 39272 (  1.8%)  [602 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (42, null, instrukcja.gif, 12952, 228, 323, , 2020-05-03 19:12:54.583692, 2020-05-03 19:12:54.583692, 30e5d0a3d4a5c725906f6317983ddc2b25b4c91e, null, null, gif, 228, 323, null, f, null, null).
+      870 / 39272 (  2.2%)  [605 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (44, null, 111W.JPG, 24922, 284, 391, , 2020-05-03 19:13:11.654751, 2020-05-03 19:13:11.654751, 575ffcc285353a664832fc86bc48be9165739f9c, null, null, jpeg, 284, 391, null, f, null, null).
+      871 / 39272 (  2.2%)  [604 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (45, null, 03.jpg, 57537, 400, 358, , 2020-05-03 19:13:11.928749, 2020-05-03 19:13:11.928749, c4c5a128a1ac11a0cf95dd7568ceb4d5da163a12, null, null, jpeg, 400, 358, null, f, null, null).
+      872 / 39272 (  2.2%)  [603 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (46, null, 03-80f1ec7c9f47e8ad3fae2478ad82c2da.jpg, 27014, 380, 357, , 2020-05-03 19:13:12.134712, 2020-05-03 19:13:12.134712, 5742d9b707822b12e3663ba0a9a6b71c02c7d976, null, null, jpeg, 380, 357, null, f, null, null).
+      931 / 39272 (  2.4%)  [587 items/min]  W, [2020-05-03T22:13:20.637470 #12977]  WARN -- : Bad date/time value "0000:00:00 00:00:00": mon out of range
+W, [2020-05-03T22:13:20.637833 #12977]  WARN -- : Bad date/time value "0000:00:00 00:00:00": mon out of range
+W, [2020-05-03T22:13:20.638038 #12977]  WARN -- : Bad date/time value "0000:00:00 00:00:00": mon out of range
+      935 / 39272 (  2.4%)  [580 items/min]  W, [2020-05-03T22:13:22.217190 #12977]  WARN -- : Bad date/time value "0000:00:00 00:00:00": mon out of range
+W, [2020-05-03T22:13:22.218010 #12977]  WARN -- : Bad date/time value "0000:00:00 00:00:00": mon out of range
+W, [2020-05-03T22:13:22.218492 #12977]  WARN -- : Bad date/time value "0000:00:00 00:00:00": mon out of range
+      974 / 39272 (  2.5%)  [555 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (58, null, 155.jpg, 520138, 1152, 864, , 2020-05-03 19:13:30.851221, 2020-05-03 19:13:30.851221, 335111a6727e0944da116d9b3425afc63076c260, null, null, jpeg, 666, 500, null, f, null, null).
+Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (59, null, Moto_22.jpg, 82485, 499, 374, , 2020-05-03 19:13:30.942136, 2020-05-03 19:13:30.942136, 799f201430d8cc587851c1f373d3c67b69477817, null, null, jpeg, 499, 374, null, f, null, null).
+      975 / 39272 (  2.5%)  [553 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (60, null, studia.jpg, 89862, 500, 375, , 2020-05-03 19:13:31.233601, 2020-05-03 19:13:31.233601, a36d3ec9c100dcc302f6b0f57801166d812569e1, null, null, jpeg, 500, 375, null, f, null, null).
+Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint
+DETAIL:  Failing row contains (61, null, Moto_22.jpg, 82485, 499, 374, , 2020-05-03 19:13:31.333093, 2020-05-03 19:13:31.333093, 799f201430d8cc587851c1f373d3c67b69477817, null, null, jpeg, 499, 374, null, f, null, null).
+      976 / 39272 (  2.5%)  [552 items/min]  Failed to create upload: PG::NotNullViolation: ERROR:  null value in column "user_id" violates not-null constraint

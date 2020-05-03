@@ -1,5 +1,10 @@
 # frozen_string_literal: true
 
+# https://meta.discourse.org/t/how-to-import-posts-in-csv-format/77107/3
+# https://meta.discourse.org/t/importing-from-kunena-3/43776
+# https://meta.discourse.org/t/beginners-guide-to-install-discourse-on-macos-for-development/15772
+# https://meta.discourse.org/t/topic-and-category-export-import/38930
+
 require "mysql2"
 require "byebug"
 require "net/http"
