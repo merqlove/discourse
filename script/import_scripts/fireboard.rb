@@ -340,7 +340,7 @@ MARKDOWN
     return "[#{text || "Ссылка"}](#{url})" unless url.match?("zlatoverstmcc.ru")
 
     id = url.match(/id=([0-9]+)/)
-    if id.size > 1
+    if id&.size > 1
       "[#{text || "Ссылка"}](/t/demo/#{topic_lookup_from_imported_post_id(id[1].to_i) || id[1]})"
     end
   end
