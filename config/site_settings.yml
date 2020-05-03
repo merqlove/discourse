@@ -1134,7 +1134,7 @@ files:
     list_type: compact
   authorized_extensions:
     client: true
-    default: "jpg|jpeg|png|gif"
+    default: "jpg|jpeg|png|gif|xls|xlsx|doc|docx|pdf"
     refresh: true
     type: list
     list_type: compact

@@ -248,7 +248,7 @@ if ENV["IMPORT"] == "1"
   gem 'sqlite3', '~> 1.3', '>= 1.3.13'
   gem 'ruby-bbcode-to-md', git: 'https://github.com/nlalonde/ruby-bbcode-to-md'
   gem 'reverse_markdown'
-  gem 'tiny_tds'
+  # gem 'tiny_tds'
   gem 'csv'
 end
 

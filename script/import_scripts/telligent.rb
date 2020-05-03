@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require_relative 'base'
-require 'tiny_tds'
+# require 'tiny_tds'
 
 # Import script for Telligent communities
 #
